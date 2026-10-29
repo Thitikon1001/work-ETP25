@@ -1,0 +1,6 @@
+{
+  "name": "WEARTH",
+  "description": "ร้านรับซื้อ แลกเปลี่ยน และขายเสื้อผ้ามือสอง แลกเสื้อ สะสมแต้ม ลดขยะสิ่งทอ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
